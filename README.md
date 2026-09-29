@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
