@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 ## Stack
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
