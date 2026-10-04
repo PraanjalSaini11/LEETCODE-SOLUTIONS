@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
