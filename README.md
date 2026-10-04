@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 ## Matrix
