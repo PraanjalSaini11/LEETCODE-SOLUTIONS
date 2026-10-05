@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [1584-min-cost-to-connect-all-points](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 ## Backtracking
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
+| [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 ## Recursion
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
