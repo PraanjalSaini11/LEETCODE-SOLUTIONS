@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
 ## Recursion
 |  |
 | ------- |
