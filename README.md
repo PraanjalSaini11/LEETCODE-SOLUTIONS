@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
