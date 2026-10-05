@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [1584-min-cost-to-connect-all-points](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 ## Backtracking
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
