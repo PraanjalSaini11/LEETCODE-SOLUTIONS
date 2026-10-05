@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
