@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0089-gray-code) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0089-gray-code) |
 ## Dynamic Programming
 |  |
 | ------- |
