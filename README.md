@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 ## Backtracking
 |  |
@@ -151,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
