@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0743-network-delay-time](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
