@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 ## Quicksort
