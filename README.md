@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0743-network-delay-time](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
