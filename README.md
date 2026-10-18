@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0743-network-delay-time](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0743-network-delay-time](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Math
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
