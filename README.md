@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 ## Backtracking
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
