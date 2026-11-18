@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1584-min-cost-to-connect-all-points](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 ## Backtracking
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
 | ------- |
