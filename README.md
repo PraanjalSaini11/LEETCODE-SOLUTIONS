@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/PraanjalSaini11/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
